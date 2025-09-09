@@ -1,3 +1,4 @@
+<h2 align="center">Hi 👋, I'm Manoj Gayakwad<br>🚀A passionate developer from India</h2>
 
 ###
 
@@ -7,8 +8,6 @@
 </div>
 
 ###
-
-<h2 align="center">Hi 👋, I'm Manoj Gayakwad<br>🚀A passionate developer from India</h2>
 
 ###
 
