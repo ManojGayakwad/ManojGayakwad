@@ -83,8 +83,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Stats   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojgayakwad&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojgayakwad&theme=radical)  
 
-###
+---
